@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Mistral";
+    src: url('gogoia-deco-webfont.eot');
+    src: url('gogoia-deco-webfont.eot?#iefix') format('embedded-opentype'),
+      url('gogoia-deco-webfont.woff') format('woff'),
+      url('MISTRAL.ttf') format('truetype'),
+      url('gogoia-deco-webfont.svg#Gogoia') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
 body{
     margin: 0;
     padding: 0;
