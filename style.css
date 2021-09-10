@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("sat2.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body2{
+    background-color: rgba(235,235,235,0.5);
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar{
+    /* height: 8vh; */
+    width: 100vw;
+    background-color: rgba(0,0,0,0.78);
+    display: inline-block;
+    vertical-align: middle;
+    padding: 2% 0;
+    font-family: Mistral;
+}
+.navbar img{
+    display: inline;
+    width: 15%;
+    margin-left: 2%;
+}
+.navbar p{
+    color: #D79E66;
+    display: inline;
+    font-size: 6rem;
+    margin-left: 15%;
+}
+.content{
+    width: 100vw;
+    padding-top: 75px;
+    padding-bottom: 55px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content h1{
+    font-size: 4rem;
+    line-height: 1rem;
+    /* margin-top: 5vh; */
+    margin-left: 50px;
+}
+.content h3{
+    font-size: 3rem;
+    margin-left: 50px;
+
+}
+
+.but-row{
+    width: 100vw;
+    height: 10vh;
+}
+table{
+    width: 100vw;
+    height: 30vh;
+}
+table td{
+    padding: 20px;
+}
+table button{
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 20px;
+    font-size: 2.8rem;
+    background-image: linear-gradient(45deg, #D79E66, #D79E66, #845015);
+    color: #EBEBEB;
+}
